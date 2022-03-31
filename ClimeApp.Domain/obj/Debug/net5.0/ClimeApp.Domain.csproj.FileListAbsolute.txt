@@ -1,0 +1,12 @@
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\bin\Debug\net5.0\ClimeApp.Domain.deps.json
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\bin\Debug\net5.0\ClimeApp.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\bin\Debug\net5.0\ClimeApp.Domain.pdb
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\obj\Debug\net5.0\ClimeApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\obj\Debug\net5.0\ClimeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\obj\Debug\net5.0\ClimeApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\obj\Debug\net5.0\ClimeApp.Domain.AssemblyInfo.cs
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\obj\Debug\net5.0\ClimeApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\obj\Debug\net5.0\ClimeApp.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\obj\Debug\net5.0\refint\ClimeApp.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\obj\Debug\net5.0\ClimeApp.Domain.pdb
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.Domain\obj\Debug\net5.0\ref\ClimeApp.Domain.dll

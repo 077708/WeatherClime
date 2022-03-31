@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XbO35uA5jnIY0/c20mpCkRF402OHwHof+otvZkBwS+unyCZClfLR3zIV59TUfQEY3U/ZBmHTqO/2IU4/x+1KRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulo Mayorga\\source\\repos\\ClimeApp\\ClimeApp.DataAccess\\ClimeApp.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo Mayorga\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\ClimeApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\ClimeApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\ClimeApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\ClimeApp.DataAccess.AssemblyInfo.cs
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\ClimeApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\bin\Debug\net5.0\ClimeApp.DataAccess.deps.json
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\bin\Debug\net5.0\ClimeApp.DataAccess.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\bin\Debug\net5.0\ClimeApp.DataAccess.pdb
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\bin\Debug\net5.0\ClimeApp.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\bin\Debug\net5.0\ClimeApp.Domain.pdb
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\ClimeApp.DataAccess.csproj.CopyComplete
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\ClimeApp.DataAccess.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\refint\ClimeApp.DataAccess.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\ClimeApp.DataAccess.pdb
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeApp.DataAccess\obj\Debug\net5.0\ref\ClimeApp.DataAccess.dll

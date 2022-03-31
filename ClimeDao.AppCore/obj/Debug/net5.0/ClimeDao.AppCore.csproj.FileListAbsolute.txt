@@ -1,0 +1,15 @@
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\bin\Debug\net5.0\ClimeDao.AppCore.deps.json
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\bin\Debug\net5.0\ClimeDao.AppCore.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\bin\Debug\net5.0\ClimeDao.AppCore.pdb
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\bin\Debug\net5.0\ClimeApp.Domain.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\bin\Debug\net5.0\ClimeApp.Domain.pdb
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\ClimeDao.AppCore.csproj.AssemblyReference.cache
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\ClimeDao.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\ClimeDao.AppCore.AssemblyInfoInputs.cache
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\ClimeDao.AppCore.AssemblyInfo.cs
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\ClimeDao.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\ClimeDao.AppCore.csproj.CopyComplete
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\ClimeDao.AppCore.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\refint\ClimeDao.AppCore.dll
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\ClimeDao.AppCore.pdb
+C:\Users\Paulo Mayorga\source\repos\ClimeApp\ClimeDao.AppCore\obj\Debug\net5.0\ref\ClimeDao.AppCore.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ClimeDao.AppCore/1.0.0": {
+        "dependencies": {
+          "ClimeApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ClimeDao.AppCore.dll": {}
+        }
+      },
+      "ClimeApp.Domain/1.0.0": {
+        "runtime": {
+          "ClimeApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClimeDao.AppCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClimeApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
